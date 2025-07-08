@@ -1,9 +1,3 @@
-__pycache__/
-__pycache__
-__pycache__/*
-limit_order_book/__pycache__/limit_order_book.cpython-39.pyc
-simulation/__pycache__/average_shape_vectorized.cpython-39.pyc
-config/__pycache__/average_shape_vectorized.cpython-39.pyc
 data/
 results/
 .vscode/
@@ -15,24 +9,9 @@ results
 train/ray_results/
 ray_results/*
 histograms/* 
-rewards/* 
-.DS_Store
-data_new.npz
-data.npz 
-new_plots/*
-# notebooks/* 
+new_plots/* 
 runs
 runs/*
 raw_rewards/*
 runs_std4/*
-runs_t150_std2/*
-runs_t200_std2/*
-cleanrl 
 latex_tables/*
-legacy_code/train/*
-rewards/*
-rewards
-models/*
-models
-tensorboard_logs/*
-tensorboard_logs
